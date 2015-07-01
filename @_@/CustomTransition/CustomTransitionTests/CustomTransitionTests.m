@@ -1,6 +1,6 @@
 //
-//  ___Tests.m
-//  @_@Tests
+//  CustomTransitionTests.m
+//  CustomTransitionTests
 //
 //  Created by kiki on 7/1/15.
 //  Copyright (c) 2015 kiki. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface ___Tests : XCTestCase
+@interface CustomTransitionTests : XCTestCase
 
 @end
 
-@implementation ___Tests
+@implementation CustomTransitionTests
 
 - (void)setUp {
     [super setUp];
